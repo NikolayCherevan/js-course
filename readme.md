@@ -6,11 +6,4 @@
 
 ## Notes
 
-> **XXX** - current lesson number
-
-> **Homeworks** - folder for homeworks
-
-> **Presentations** - folder for slides
-
-> **YOUR_LASTNAME_YOUR_FIRST_NAME** - `Musk_Elon`
- 
+вот я сделал что-то, допустим изменил файл
