@@ -1,11 +1,11 @@
-let itsBoolean = true;
-console.log( typeof itsBoolean);
-let itsString = "true";
-console.log( typeof itsString);
-let itsNumber  = 123;
-console.log( typeof itsNumber);
-let itsSymbol = Symbol("Привет") 
-console.log(typeof itsSymbol);
+let boolean = true;
+
+let str = "true";
+
+let num  = 123;
+
+let txt = Symbol("Привет"); 
+
 
 
 
