@@ -14,25 +14,28 @@ let a = 3
 let b = 5
 
 if (a <= 1 && b >=3) {
-     alert (a + b)
+     alert (a + b);
 }
   else {
-    alert (a - b)
+    alert (a - b);
   }
 
 
 
   let num = 1
 switch (num) {
-    case (1): alert ("Зима")
+    case (1): alert ("Зима");
         break;
     case (2):
-    alert ("Весна")
+    alert ("Весна");
         break;
      case (3):
-        alert ("Лето")
+        alert ("Лето");
         break;
      case (4):
-        alert ("Осень")
+        alert ("Осень");
         break;
+        default:
+              console.log("non-exist");
+              break;
 }
